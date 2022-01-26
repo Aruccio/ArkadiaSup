@@ -1,0 +1,91 @@
+{
+  "magia": {
+      "stare zawile zapiski":"     -> Waluta handlowa",
+
+      "lodowy lsniacy sztylet":"     ->Zadaje obrazenia od zimna",
+      "snieznobialy lsniacy sztylet":"",
+      "szylkretowy falisty sztylet": "     -> Nic szczegolnego, nie psuje sie",
+      "srebrzysty wulkaniczny kindzal": "     -> Sztylet na kamienie",
+      "antyczny zdobiony sztylet": "     -> Czasami zatrzymuje regeneracje kondycji wroga",
+      "zdobiony dlugi lewak": "     -> Do lewej reki.     -> Pomaga w parowaniu, chociaz umiejetnosc sie nie podnosi",
+
+      "waski kunsztowny sihill": "     -> 1H.",
+      "szkarlatny dlugi talwar": "     -> 1H.     -> Obrazenia od ognia",
+      "jasniejacy zdobiony jatagan": "     -> 1H.     -> Swieci sie",
+      "masywny wyszczerbiony tasak": "     -> 1H.     -> Meczy wroga, zmniejszajac zmeczenie wlasciciela",
+      "niematerialny ulotny szamszir": "     -> 1H.     -> Obrazenia od magii smierci",
+      "kruczoczarny misterny miecz": "     -> 1.5H.     -> Wymaga rozpalenia.     -> Zre mane, leczy, gada",
+      "zdobiony jasniejacy chepesz": "     -> 1.5H.     -> Nic szczegolnego, nie psuje sie",
+      "egzotyczny jadeitowy palasz": "     -> 1H.     -> Bron na kamienie",
+      "smukly demoniczny miecz": "     -> 1H.     -> Spaczony miecz arlekina chaosu",
+      "smukly zmiennoksztaltny miecz": "     -> 1H.     -> Spaczony miecz arlekina chaosu",
+
+      "polyskiwy smukly espadon":"     -> 2H.     -> Nic szczegolnego, nie psuje sie",
+      "poszczerbiony obureczny miecz": "     -> 2H.     -> Oslepia (oglusza) przy parowaniu.     -> Obrazenia od ognia",
+
+      "opalizujacy runiczny topor obosieczny": "     -> 1.5H",
+      "archaiczny zdobiony topor": "     -> 1H",
+      "zasniedzialy obosieczny topor": "     -> 1.5H.     -> Wymaga rozpalenia (obosieczny gwiezdny topor).     -> Do zdobycia tylko u Gnishina (Twierdza Ognistego Oddechu)",
+      "obosieczny gwiezdny topor":"     -> 1.5H.     -> Rozpalony <zasniedzialy obosieczny topor>.     -> Do zdobycia tylko u Gnishina (Twierdza Ognistego Oddechu)",
+      "kunsztowny mithrylowy topor bojowy":"     -> 1H",
+      "misterny obosieczny topor":"     -> 1H.     ->  Po <przekreceniu styliska> zadaje obrazenia klute. Przekrecic mozna przy pewnej znajomosci toporow",
+      "niezwykly kosciany topor":"     -> 1H.     -> Bron na kamienie",
+
+      "foremny iskrzacy mlot": "     -> 1H.     -> Obrazenia od elektrycznosci",
+      "asymetryczny wulkaniczny mlot ": "     -> 1H     -> Bron na kamienie",
+      "adamantytowy mlot bojowy": "     -> 1.5H",
+      "wielki runiczny mlot wojenny":"     -> 1.5H.     -> Tylko w Ishtar",
+      "zdobiony jasniejacy mlot bojowy": "     -> 1H",
+      "rezonujacy krysztalowy mlot": "     -> 1H.     -> Obrazenia od powierza(?)",
+
+      "gigantyczny granitowy mlot": "     -> 2H.     -> Oglusza",
+      "kosciany kilof": "     -> 2H.     -> Zadaje klute obrazenia",
+
+      "starozytne kosciane berlo": "     -> 1H.     -> Bron na kamienie",
+      "krysztalowy swietlisty korbacz": "     -> 1.5H.     -> Swieci sie",
+      "niebieska zdobiona bulawa": "     -> 1H.     -> Obrazenia od elektrycznosci(?)",
+      "czarnoblekitny pulsujacy morgenstern":"     -> 1H",
+
+      "lodowata dluga maczuga": "     -> 2H.     -> Obrazenia od zimna",
+      "dlugi runiczny korbacz": "     -> 2H.     -> Wymaga rozpalenia, wtedy obrazenia od ognia",
+
+      "misterny snieznobialy harpun": "     -> 1.5H.     -> Bron na kamienie",
+      "zdobiona jasniejaca wlocznia": "     -> 1.5H.     -> Do zdobycia tylko u mumii",
+
+      "ogromny ognisty trojzab":"     -> 2H.     -> Zadaje obrazenia od ognia.     -> Leczy przy intelekcie ponad bystry i niewiele.     -> Zzera mane przy dobyciu i leczeniu",
+      "srebrzysta kosa bojowa": "     -> 2H. najlzejszy z 2h     -> Nic szczegolnego poza niepsuciem sie",
+      "ciernista kobaldowa halabarda": "     -> 2H.     -> Obrazenia od magii smierci",
+      "adamantytowa szpiczasta partyzana": "     -> 2H.     -> Najciezszy magiczny drzewiec",
+
+      "ciemnogranatowy smukly helm": "     -> Odpornosc na magie umyslu i trucizne.     -> Podnosi spostrzegawczosc.     -> Hipnotyzuje wroga, nie pozwala wykonywac manewrow",
+      "dluga krasnoludzka bajdana": "     -> Srednia zbroja, ale lekka dosc.     -> Odpornosc na kwas i ogien",
+      "starozytna runiczna zbroja plytowa": "     -> Ciezka zbroja.     -> Odpornosc na obrazenia niemagiczne",
+      "stary matowy pancerz":"     -> Nierozpalona zbroja Krola Feniksa.     -> Rozpalona daje odpornosc na spaczen.     -> Nie mozna w niej mowic",
+      "strzelisty zasniedzialy helm": "     -> Nierozpalona zbroja Krola Feniksa.     -> Rozpalona daje odpornosc na spaczen.     -> Nie mozna w niej mowic",
+
+      "lsniaca plomienista tarcza": "     -> Strzela fireballami",
+
+      "azurowy koscistobialy amulet": "     -> Leczy, mocno. Zre mane rownie mocno",
+      "azurowy polyskujacy amulet z wielobarwnego koralu": "     -> Na kamienie, daje odpornosci z kamieni",
+      "ciezki krwisty amulet": "     -> Podnosi zielarstwo o 10",
+      "czarny blyszczacy kolczyk": "     -> Ostrzega przed atakiem z zaskoczenia (odpiety)",
+      "czarny prosty diadem": "     -> Na kamienie, daje odpornosci z kamieni",
+      "czarny zdobiony amulet": "     -> >skup sie na amulecie< daje chwilowa niesmiertelnosc, tarcze (odpiety)",
+      "gruba czarna opaska z kolcami": "     -> Podnosi sile o 2 podcechy",
+      "gruby zlocisty pierscien z hiacyntem": "     -> Co to w ogole jest :D Odpiety lub nieistniejacy",
+      "lekka lsniaca bransoleta": "     -> Podnosi zrecznosc o 2 podcechy",
+      "masywny amulet z czarnym opalem": "     -> Podnosi umiejetnosc rozkazy o 10(?)",
+      "mithrylowy lsniacy amulet": "     -> Co to w ogole jest :D Odpiety lub nieistniejacy",
+      "mosiezna duza broszka w ksztalcie liscia debu": "     -> Odpornosc na magie umyslu i magie smierci o 1",
+      "niewielki krwawnikowy pierscien": "     -> Odpornosc na trucizny o 1, spostrzegawczosc o 10(?)",
+      "niewielki zmatowialy pierscien": "     -> Intelekt o ok. 1.5     -> o 10 umiejetnosci: alchemia, ocena obiektu, targowanie, znajomosc jezykow",
+      "osobliwy szklany pierscien": "     -> Na kamienie, daje odpornosci z kamieni",
+      "szkarlatny ciernisty pierscien": "     -> Daje pelna znajomosc drukh-eltharin",
+      "zdobiony zloty pierscien": "     -> Podnosi wyczucie kierunku",
+
+      "szara wygodna para butow": "     -> Nie zostawia sladow do wytropienia. Nie zaciera poprzednich",
+      "szmaragdowozielony misterny plaszcz":"     -> <zepnij plaszcz brosza> zeby leczyl",
+      "zielony luskowaty plaszcz":"     -> Podnosi uniki o 10     -> Odpornosc na obrazenia niemagiczne",
+      "dluga czarna szata": "     -> Po otuleniu sie nia widac jako <zakapturzony czarnoodziany mezczyzna>, nie lapie wtedy GMCP"
+      }
+}
