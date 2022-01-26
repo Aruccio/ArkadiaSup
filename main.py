@@ -60,5 +60,5 @@ async def on_message(message):
         await message.channel.send("opusc pierwsza wajche;podnies druga wajche;opusc trzecia wajche")
         
 
-client.run('OTM1NTI1MzQwNTkwMjYwMzA3.Ye_53g.VtzTnV1VsBuBwTMEtAt9q1-sNbo')
+client.run('OTM1NTI1MzQwNTkwMjYwMzA3.Ye_53g.4Np2PVJXXKBmL-krgsjTpUtQ-w4')
 
