@@ -4,10 +4,6 @@ import json
 
 
 
-
-
-
-
 client = discord.Client()
 
 with open('skarbce.json') as s:
